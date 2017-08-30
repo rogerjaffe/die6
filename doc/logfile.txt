@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/Bluej 3.1.1/BlueJ.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/Applications/Bluej 3.1.1/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/Bluej 3.1.1/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/Roger/Desktop/hades-applet.jar:/Users/Roger/Desktop/ClassesAndObjects
+-d
+/Users/Roger/Desktop/ClassesAndObjects/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/Bluej 3.1.1/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/Roger/Desktop/ClassesAndObjects/Die.java
+<---- end of javadoc command ---->
+Loading source file /Users/Roger/Desktop/ClassesAndObjects/Die.java...
+/Users/Roger/Desktop/ClassesAndObjects/Die.java:13: error: invalid method declaration; return type required
+  public getValue() {
+         ^
+1 error
