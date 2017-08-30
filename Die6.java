@@ -7,6 +7,9 @@
  */
 public class Die6
 {
+  /**
+   * Contains the current value of the die
+   */
   private int value;
 
 /**
