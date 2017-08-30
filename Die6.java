@@ -1,6 +1,6 @@
 
 /**
- * Abstracts one die (plural is dice)
+ * Abstracts one six-sided die (plural is dice)
  * 
  * @Mr. Jaffe
  * @1.0 2017-07-13
